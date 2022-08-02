@@ -1,4 +1,9 @@
 # hello-word
+readme-edits
+primeiros passos
+Me chamo pedro e esses são os meus primeiros passos trabalhando com o github
+primeiros pullrequests 
+
 ## primeiros passos
 *Me chamo Pedro e esses são os meus primeiros passos trabalhando com o github*
 ## Sintaxe básica de texto e formatação no github:
@@ -49,6 +54,7 @@ A cor de fundo deve ser `#ffffff` para o modo claro e `#0d1117` para o modo escu
 * HEX `#096DA` 
 * RGB `RGB(0, 105, 2018)`
 * HSL `hsl(212, 92%, 45%)`
+
 
 
 
